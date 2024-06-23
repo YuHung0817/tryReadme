@@ -1,9 +1,9 @@
 # tryReadme
-Bomb
-Engine
-Instrument
-Plant
-Resource
-role
-Scene
+Bomb\n
+Engine\n
+Instrument\n
+Plant\n
+Resource\n
+role\n
+Scene\n
 
