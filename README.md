@@ -1,5 +1,5 @@
 # tryReadme
-git bomb  
+-git bomb  --bomb1  
 Engine  
 Instrument  
 Plant  
