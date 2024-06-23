@@ -1,5 +1,5 @@
 # tryReadme
-Bomb"\n"
+-bomb
 Engine\n
 Instrument\n
 Plant\n
