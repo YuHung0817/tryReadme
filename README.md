@@ -1,2 +1,9 @@
 # tryReadme
-this is the fle of readme
+Bomb
+Engine
+Instrument
+Plant
+Resource
+role
+Scene
+
