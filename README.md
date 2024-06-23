@@ -1,6 +1,9 @@
 # tryReadme
-git bomb  
- - bomb  
+bomb  
+ - bomb1
+ - fireeffect  
+ - firearmeffect  
+ - hammereffect    
 Engine  
 Instrument  
 Plant  
